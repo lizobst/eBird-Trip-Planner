@@ -205,7 +205,7 @@ def get_all_predictions(county, season, hour):
 
 # Main app
 def main():
-    st.title("Texas Bird Trip Planner")
+    st.title("Texas Birding Trip Planner")
     st.markdown("### Plan your birding trip - discover which species you're most likely to see")
     
     # Load data
