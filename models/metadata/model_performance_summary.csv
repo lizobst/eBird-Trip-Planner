@@ -1,0 +1,282 @@
+species_name,season,county,roc_auc,detection_rate,spatial_importance,n_train,n_test,model_path
+Inca Dove,Fall,Neither,0.8307046863265286,0.3481073705507328,0.6635622156403669,34005,8502,models/combined\Inca_Dove_fall.pkl
+Inca Dove,Spring,Neither,0.8247375500194651,0.3517495023794849,0.5833597272198299,79176,19795,models/combined\Inca_Dove_spring.pkl
+Inca Dove,Summer,Neither,0.8702768027610696,0.18714379658044716,0.6478018347929486,14598,3650,models/combined\Inca_Dove_summer.pkl
+Inca Dove,Winter,Neither,0.8283293542196096,0.3187131915563028,0.6797933254493322,81367,20342,models/combined\Inca_Dove_winter.pkl
+Curve-billed Thrasher,Fall,Neither,0.8465327274147731,0.19862610864092972,0.7052104609597505,34005,8502,models/combined\Curve-billed_Thrasher_fall.pkl
+Curve-billed Thrasher,Spring,Neither,0.8341055259188885,0.10919360216629113,0.7306122229180958,79176,19795,models/combined\Curve-billed_Thrasher_spring.pkl
+Curve-billed Thrasher,Summer,Neither,0.8597603510969032,0.12505480052608506,0.6182628985883905,14598,3650,models/combined\Curve-billed_Thrasher_summer.pkl
+Curve-billed Thrasher,Winter,Neither,0.8555778125320228,0.14005643551701422,0.7755381285933889,81367,20342,models/combined\Curve-billed_Thrasher_winter.pkl
+Long-billed Dowitcher,Fall,Neither,0.9053307021819688,0.11998023854894488,0.8584627186464759,34005,8502,models/combined\Long-billed_Dowitcher_fall.pkl
+Long-billed Dowitcher,Spring,Neither,0.9270470810083186,0.1570965232239747,0.9116157652284231,79176,19795,models/combined\Long-billed_Dowitcher_spring.pkl
+Long-billed Dowitcher,Winter,Neither,0.9132920635485491,0.14255375630475178,0.8948119387881932,81367,20342,models/combined\Long-billed_Dowitcher_winter.pkl
+Common Gallinule,Spring,Neither,0.8802632995002387,0.1654828181992705,0.8233250271357535,79176,19795,models/combined\Common_Gallinule_spring.pkl
+House Finch,Fall,Neither,0.8994177755819467,0.12365022231632437,0.5889238057337921,34005,8502,models/combined\House_Finch_fall.pkl
+House Finch,Spring,Neither,0.9101456672078715,0.10017075709046085,0.6219621402882431,79176,19795,models/combined\House_Finch_spring.pkl
+House Finch,Summer,Neither,0.8611199399114484,0.2546580447172293,0.6646647454959014,14598,3650,models/combined\House_Finch_summer.pkl
+Greater Yellowlegs,Fall,Neither,0.8917814021197036,0.10711176982614629,0.8605512944075878,34005,8502,models/combined\Greater_Yellowlegs_fall.pkl
+Greater Yellowlegs,Winter,Neither,0.9088510957980396,0.12924126675122163,0.9049570452128065,81367,20342,models/combined\Greater_Yellowlegs_winter.pkl
+Orange-crowned Warbler,Fall,Both,0.7902026315675362,0.43411673371444703,0.6011922333834527,34005,8502,models/combined\Orange-crowned_Warbler_fall.pkl
+Orange-crowned Warbler,Spring,Both,0.7278131204984786,0.2070101342817593,0.5630999504748592,79176,19795,models/combined\Orange-crowned_Warbler_spring.pkl
+Orange-crowned Warbler,Winter,Both,0.8123191652052062,0.5813939769341946,0.6286676308206588,81367,20342,models/combined\Orange-crowned_Warbler_winter.pkl
+Blue-gray Gnatcatcher,Fall,Both,0.8381789110783546,0.5268779259886607,0.6543398646470354,34005,8502,models/combined\Blue-gray_Gnatcatcher_fall.pkl
+Blue-gray Gnatcatcher,Spring,Both,0.7416428612904586,0.20829333845267806,0.6299718862746885,79176,19795,models/combined\Blue-gray_Gnatcatcher_spring.pkl
+Blue-gray Gnatcatcher,Winter,Both,0.816411282937079,0.4495767336223933,0.6513638280976936,81367,20342,models/combined\Blue-gray_Gnatcatcher_winter.pkl
+Ruby-crowned Kinglet,Fall,Both,0.7464747055473311,0.3355212082715788,0.578382681392771,34005,8502,models/combined\Ruby-crowned_Kinglet_fall.pkl
+Ruby-crowned Kinglet,Spring,Both,0.7660223966118618,0.1380404360873387,0.5965117153186391,79176,19795,models/combined\Ruby-crowned_Kinglet_spring.pkl
+Ruby-crowned Kinglet,Winter,Both,0.7552927383644469,0.43736542488865293,0.5851265217999241,81367,20342,models/combined\Ruby-crowned_Kinglet_winter.pkl
+Northern Shoveler,Fall,Both,0.9178823842087298,0.22744489142964688,0.912806436644387,34005,8502,models/combined\Northern_Shoveler_fall.pkl
+Northern Shoveler,Spring,Both,0.9302357991504727,0.22928938780046682,0.9197307527452925,79176,19795,models/combined\Northern_Shoveler_spring.pkl
+Northern Shoveler,Winter,Both,0.9427671375094919,0.3396749550187299,0.9237187620485033,81367,20342,models/combined\Northern_Shoveler_winter.pkl
+Couchs Kingbird,Fall,Both,0.7476819410875978,0.21490578022443363,0.6940326416910133,34005,8502,models/combined\Couchs_Kingbird_fall.pkl
+Couchs Kingbird,Spring,Both,0.804897304924505,0.458275656505441,0.591669356071938,79176,19795,models/combined\Couchs_Kingbird_spring.pkl
+Couchs Kingbird,Summer,Both,0.8712331473733148,0.3452433143358176,0.6122226188056721,14598,3650,models/combined\Couchs_Kingbird_summer.pkl
+Yellow-rumped Warbler,Fall,Both,0.7412386506265066,0.16983085138918297,0.6887841856983716,34005,8502,models/combined\Yellow-rumped_Warbler_fall.pkl
+Yellow-rumped Warbler,Winter,Both,0.7545619698305719,0.3781376279385305,0.7040780987291276,81367,20342,models/combined\Yellow-rumped_Warbler_winter.pkl
+Northern House Wren,Fall,Both,0.8021556237410237,0.3599877667207754,0.607930489827911,34005,8502,models/combined\Northern_House_Wren_fall.pkl
+Northern House Wren,Spring,Both,0.7832035891534821,0.10589970799527135,0.5482724215954208,79176,19795,models/combined\Northern_House_Wren_spring.pkl
+Northern House Wren,Winter,Both,0.7818005394150773,0.2085459497192972,0.5950834996273688,81367,20342,models/combined\Northern_House_Wren_winter.pkl
+Green-winged Teal,Fall,Neither,0.9084971571437952,0.17815889147669794,0.8989986081931021,34005,8502,models/combined\Green-winged_Teal_fall.pkl
+Green-winged Teal,Spring,Neither,0.8955438559925524,0.10232290266845843,0.910814784824495,79176,19795,models/combined\Green-winged_Teal_spring.pkl
+Green-winged Teal,Winter,Neither,0.9232784199166202,0.23478748193375218,0.9161505907014977,81367,20342,models/combined\Green-winged_Teal_winter.pkl
+Gadwall,Fall,Both,0.8980329503530071,0.14195309007928106,0.8917889732245916,34005,8502,models/combined\Gadwall_fall.pkl
+Gadwall,Winter,Both,0.9069938744719058,0.24687097503662409,0.9103773535072275,81367,20342,models/combined\Gadwall_winter.pkl
+Ruby-throated Hummingbird,Fall,Both,0.8069747905047504,0.27073187945514854,0.7912764724574145,34005,8502,models/combined\Ruby-throated_Hummingbird_fall.pkl
+Ruby-throated Hummingbird,Spring,Both,0.8006645064489035,0.14180921684129694,0.7729084540930067,79176,19795,models/combined\Ruby-throated_Hummingbird_spring.pkl
+Barn Swallow,Fall,Both,0.7627031917620337,0.2039664055332063,0.6844065376363817,34005,8502,models/combined\Barn_Swallow_fall.pkl
+Barn Swallow,Spring,Both,0.7762478803407357,0.19780541774863344,0.74489056376049,79176,19795,models/combined\Barn_Swallow_spring.pkl
+Barn Swallow,Summer,Both,0.8560505258291424,0.2977312582200789,0.6114623578425827,14598,3650,models/combined\Barn_Swallow_summer.pkl
+Double-crested Cormorant,Fall,Both,0.8451585318489117,0.1277671912861411,0.7656101951967775,34005,8502,models/combined\Double-crested_Cormorant_fall.pkl
+Double-crested Cormorant,Spring,Both,0.8062455596616083,0.10151458508047811,0.7304824320183217,79176,19795,models/combined\Double-crested_Cormorant_spring.pkl
+Double-crested Cormorant,Winter,Both,0.8004457152721065,0.18815444060997552,0.7747428977765521,81367,20342,models/combined\Double-crested_Cormorant_winter.pkl
+Purple Martin,Spring,Both,0.8468785412819694,0.27232219539056896,0.8623759103804787,79176,19795,models/combined\Purple_Martin_spring.pkl
+Purple Martin,Summer,Both,0.7689474388674389,0.2396975010960105,0.7501255237084052,14598,3650,models/combined\Purple_Martin_summer.pkl
+American White Pelican,Fall,Both,0.8972648639200511,0.10073634930717294,0.8965264643862527,34005,8502,models/combined\American_White_Pelican_fall.pkl
+American White Pelican,Winter,Both,0.8474895647802791,0.20179138522647946,0.8626770504713974,81367,20342,models/combined\American_White_Pelican_winter.pkl
+American Kestrel,Fall,Both,0.8087838394942971,0.144046862869645,0.8172505817929268,34005,8502,models/combined\American_Kestrel_fall.pkl
+American Kestrel,Winter,Both,0.839746231797792,0.2070416580636915,0.8271524715448448,81367,20342,models/combined\American_Kestrel_winter.pkl
+Osprey,Fall,Neither,0.8687000082396005,0.1444232714611711,0.7901441774693769,34005,8502,models/combined\Osprey_fall.pkl
+Osprey,Winter,Neither,0.8519610084288343,0.1363399502502237,0.7936774197145018,81367,20342,models/combined\Osprey_winter.pkl
+Belted Kingfisher,Fall,Neither,0.811291845753051,0.1526101583268638,0.6975882740628877,34005,8502,models/combined\Belted_Kingfisher_fall.pkl
+Belted Kingfisher,Winter,Neither,0.8236695638235095,0.15098958794207,0.7773060146743616,81367,20342,models/combined\Belted_Kingfisher_winter.pkl
+Brown-crested Flycatcher,Spring,Neither,0.7827712405486797,0.22502551252387062,0.6063029853675839,79176,19795,models/combined\Brown-crested_Flycatcher_spring.pkl
+Brown-crested Flycatcher,Summer,Neither,0.8717363145058377,0.2072007891275756,0.6907177817584204,14598,3650,models/combined\Brown-crested_Flycatcher_summer.pkl
+Brown-headed Cowbird,Spring,Both,0.7945048989407995,0.1691505592547312,0.4915958691262979,79176,19795,models/combined\Brown-headed_Cowbird_spring.pkl
+Brown-headed Cowbird,Summer,Both,0.8069389542766112,0.17092284085927226,0.6871582220885698,14598,3650,models/combined\Brown-headed_Cowbird_summer.pkl
+Green Heron,Spring,Both,0.8352261115019678,0.14593163653999655,0.7681948831484939,79176,19795,models/combined\Green_Heron_spring.pkl
+Green Heron,Summer,Both,0.8807613044899774,0.2045703638754932,0.8493424396531918,14598,3650,models/combined\Green_Heron_summer.pkl
+Black-crowned Night Heron,Winter,Neither,0.9399861890277492,0.1533689250705444,0.9123036143715818,81367,20342,models/combined\Black-crowned_Night_Heron_winter.pkl
+Lincolns Sparrow,Fall,Both,0.7977564349622241,0.11155809631354836,0.6100341217661396,34005,8502,models/combined\Lincolns_Sparrow_fall.pkl
+Lincolns Sparrow,Spring,Both,0.7527444810169712,0.11257843206595872,0.6327708002169476,79176,19795,models/combined\Lincolns_Sparrow_spring.pkl
+Chimney Swift,Spring,Both,0.7308320657409746,0.19306665588909883,0.6858453787435368,79176,19795,models/combined\Chimney_Swift_spring.pkl
+Chimney Swift,Summer,Both,0.7611692307692308,0.19876150811047785,0.7354957393763385,14598,3650,models/combined\Chimney_Swift_summer.pkl
+Northern Pintail,Fall,Neither,0.9155469860719535,0.10231256028418849,0.9110321479182009,34005,8502,models/combined\Northern_Pintail_fall.pkl
+Northern Pintail,Winter,Neither,0.9264591967200093,0.1731803478551554,0.9211701526136242,81367,20342,models/combined\Northern_Pintail_winter.pkl
+Ruddy Duck,Fall,Both,0.9392225456357696,0.10325358176300374,0.9096562626271442,34005,8502,models/combined\Ruddy_Duck_fall.pkl
+Ruddy Duck,Winter,Both,0.9386073981588672,0.12334208378806202,0.916380622421775,81367,20342,models/combined\Ruddy_Duck_winter.pkl
+Scissor-tailed Flycatcher,Fall,Both,0.8012848688766367,0.11880396170042581,0.7213809976364826,34005,8502,models/combined\Scissor-tailed_Flycatcher_fall.pkl
+Scissor-tailed Flycatcher,Spring,Both,0.7715683872723973,0.15017530387689323,0.736364431576569,79176,19795,models/combined\Scissor-tailed_Flycatcher_spring.pkl
+Scissor-tailed Flycatcher,Summer,Both,0.895727116083652,0.16818281455501974,0.7595703038628066,14598,3650,models/combined\Scissor-tailed_Flycatcher_summer.pkl
+Red-tailed Hawk,Winter,Both,0.7523786585553429,0.13431456409953887,0.7848973144276598,81367,20342,models/combined\Red-tailed_Hawk_winter.pkl
+Nashville Warbler,Fall,Both,0.7221720924533048,0.14011809819559132,0.6762885051334699,34005,8502,models/combined\Nashville_Warbler_fall.pkl
+Nashville Warbler,Spring,Both,0.7869160038486971,0.11403340372432329,0.7114707424876605,79176,19795,models/combined\Nashville_Warbler_spring.pkl
+Wilsons Snipe,Fall,Neither,0.9263639119763623,0.11000541087350318,0.8940687153216773,34005,8502,models/combined\Wilsons_Snipe_fall.pkl
+Yellow-billed Cuckoo,Summer,Both,0.8668589147913215,0.2324090311266988,0.8191988070816818,14598,3650,models/combined\Yellow-billed_Cuckoo_summer.pkl
+Painted Bunting,Summer,Neither,0.8631682114219248,0.18884261288908374,0.7948760131332125,14598,3650,models/combined\Painted_Bunting_summer.pkl
+Green Jay,Fall,Hidalgo,0.8592892726818568,0.7415950550278908,0.7582745073162006,26532,6633,models/hidalgo_only\Green_Jay_fall.pkl
+Green Jay,Spring,Hidalgo,0.8175917215738271,0.5723942516613512,0.6528004666608603,62960,15741,models/hidalgo_only\Green_Jay_spring.pkl
+Green Jay,Summer,Hidalgo,0.8512917855686913,0.4911874862304472,0.8855518716382121,7262,1816,models/hidalgo_only\Green_Jay_summer.pkl
+Green Jay,Winter,Hidalgo,0.8648473406191594,0.6833207371664438,0.7379745300595961,68804,17201,models/hidalgo_only\Green_Jay_winter.pkl
+White-tipped Dove,Fall,Hidalgo,0.8345688443527777,0.3814865068596412,0.6704408941252048,26532,6633,models/hidalgo_only\White-tipped_Dove_fall.pkl
+White-tipped Dove,Spring,Hidalgo,0.8385885384559522,0.49468240556028514,0.7212377731524857,62960,15741,models/hidalgo_only\White-tipped_Dove_spring.pkl
+White-tipped Dove,Summer,Hidalgo,0.8797914947744774,0.4449217889402952,0.8934656055730924,7262,1816,models/hidalgo_only\White-tipped_Dove_summer.pkl
+White-tipped Dove,Winter,Hidalgo,0.841127686295579,0.4205104354398,0.6691437698252257,68804,17201,models/hidalgo_only\White-tipped_Dove_winter.pkl
+Clay-colored Thrush,Fall,Hidalgo,0.792000768259355,0.36779737675260066,0.7543369904916382,26532,6633,models/hidalgo_only\Clay-colored_Thrush_fall.pkl
+Clay-colored Thrush,Spring,Hidalgo,0.7652930618981888,0.3403387504606041,0.6120007162058702,62960,15741,models/hidalgo_only\Clay-colored_Thrush_spring.pkl
+Clay-colored Thrush,Summer,Hidalgo,0.7786235210939301,0.3795990306234853,0.8300744013828396,7262,1816,models/hidalgo_only\Clay-colored_Thrush_summer.pkl
+Clay-colored Thrush,Winter,Hidalgo,0.8020018537525153,0.3373524795070054,0.735011246733137,68804,17201,models/hidalgo_only\Clay-colored_Thrush_winter.pkl
+Olive Sparrow,Fall,Hidalgo,0.792332359569806,0.28141112618724556,0.6950426155726941,26532,6633,models/hidalgo_only\Olive_Sparrow_fall.pkl
+Olive Sparrow,Spring,Hidalgo,0.8162987372610847,0.36980470387923914,0.5797617960114994,62960,15741,models/hidalgo_only\Olive_Sparrow_spring.pkl
+Olive Sparrow,Summer,Hidalgo,0.8606585969702709,0.3662701035470368,0.7901192596021323,7262,1816,models/hidalgo_only\Olive_Sparrow_summer.pkl
+Olive Sparrow,Winter,Hidalgo,0.7883065631148444,0.2521830126155456,0.7019929280116135,68804,17201,models/hidalgo_only\Olive_Sparrow_winter.pkl
+Buff-bellied Hummingbird,Fall,Hidalgo,0.7697273806775077,0.3746419418061209,0.8286937465971549,26532,6633,models/hidalgo_only\Buff-bellied_Hummingbird_fall.pkl
+Buff-bellied Hummingbird,Spring,Hidalgo,0.7856317753873219,0.3063620538493793,0.7407003692353356,62960,15741,models/hidalgo_only\Buff-bellied_Hummingbird_spring.pkl
+Buff-bellied Hummingbird,Summer,Hidalgo,0.7855561510173156,0.437871777924653,0.7807253672932396,7262,1816,models/hidalgo_only\Buff-bellied_Hummingbird_summer.pkl
+Buff-bellied Hummingbird,Winter,Hidalgo,0.8069623195425176,0.22626591477239696,0.8662551838257827,68804,17201,models/hidalgo_only\Buff-bellied_Hummingbird_winter.pkl
+Mottled Duck,Fall,Hidalgo,0.8839302008941115,0.26717925523895675,0.9168871999850224,26532,6633,models/hidalgo_only\Mottled_Duck_fall.pkl
+Mottled Duck,Spring,Hidalgo,0.8657901896937759,0.24260174584821032,0.9047326685798678,62960,15741,models/hidalgo_only\Mottled_Duck_spring.pkl
+Mottled Duck,Summer,Hidalgo,0.8765233938091019,0.11841815377836527,0.8730175100196724,7262,1816,models/hidalgo_only\Mottled_Duck_summer.pkl
+Mottled Duck,Winter,Hidalgo,0.8856379677530026,0.23632346956572292,0.9393191053031894,68804,17201,models/hidalgo_only\Mottled_Duck_winter.pkl
+White Ibis,Fall,Hidalgo,0.87304984859995,0.17545605306799336,0.9206414609337341,26532,6633,models/hidalgo_only\White_Ibis_fall.pkl
+White Ibis,Spring,Hidalgo,0.8881640414943676,0.15899416779964676,0.9168397952336507,62960,15741,models/hidalgo_only\White_Ibis_spring.pkl
+White Ibis,Winter,Hidalgo,0.8759316673557329,0.1976396721120865,0.9241035838555087,68804,17201,models/hidalgo_only\White_Ibis_winter.pkl
+Harriss Hawk,Fall,Hidalgo,0.7984459677509097,0.18561736770691994,0.7281230782195306,26532,6633,models/hidalgo_only\Harriss_Hawk_fall.pkl
+Harriss Hawk,Spring,Hidalgo,0.8419757858882371,0.13721553728669267,0.7221268130379677,62960,15741,models/hidalgo_only\Harriss_Hawk_spring.pkl
+Harriss Hawk,Winter,Hidalgo,0.809259456051787,0.21588279751177258,0.864580094840015,68804,17201,models/hidalgo_only\Harriss_Hawk_winter.pkl
+Hooded Oriole,Fall,Hidalgo,0.7298024927281501,0.10312075983717775,0.5718591409224156,26532,6633,models/hidalgo_only\Hooded_Oriole_fall.pkl
+Hooded Oriole,Spring,Hidalgo,0.7376585740857778,0.2828680702913559,0.6723618369303344,62960,15741,models/hidalgo_only\Hooded_Oriole_spring.pkl
+Hooded Oriole,Summer,Hidalgo,0.7707635727023903,0.366049790702798,0.8015634982372738,7262,1816,models/hidalgo_only\Hooded_Oriole_summer.pkl
+Common Pauraque,Fall,Hidalgo,0.9323168433542462,0.17838082315694256,0.9126409435761523,26532,6633,models/hidalgo_only\Common_Pauraque_fall.pkl
+Common Pauraque,Spring,Hidalgo,0.8869819509506338,0.16025209336603094,0.7111108283491385,62960,15741,models/hidalgo_only\Common_Pauraque_spring.pkl
+Common Pauraque,Winter,Hidalgo,0.9431275163842515,0.1780710423812569,0.8862584194967695,68804,17201,models/hidalgo_only\Common_Pauraque_winter.pkl
+Anhinga,Fall,Hidalgo,0.8083293990753888,0.14669078848183326,0.7610469421210493,26532,6633,models/hidalgo_only\Anhinga_fall.pkl
+Anhinga,Spring,Hidalgo,0.7946769770376789,0.15302219793903507,0.6889005606475594,62960,15741,models/hidalgo_only\Anhinga_spring.pkl
+Anhinga,Winter,Hidalgo,0.8419845585758012,0.1851869077379222,0.8731995869253462,68804,17201,models/hidalgo_only\Anhinga_winter.pkl
+Northern Harrier,Fall,Hidalgo,0.7998404140250732,0.11822704658525554,0.798836240473342,26532,6633,models/hidalgo_only\Northern_Harrier_fall.pkl
+Northern Harrier,Spring,Hidalgo,0.8297198109887752,0.1183212411532255,0.7712675568581575,62960,15741,models/hidalgo_only\Northern_Harrier_spring.pkl
+Northern Harrier,Winter,Hidalgo,0.81055926599754,0.20441834777047846,0.8719560233331352,68804,17201,models/hidalgo_only\Northern_Harrier_winter.pkl
+Wild Turkey,Fall,Hidalgo,0.9548189651005135,0.1656867179255239,0.9493962379502223,26532,6633,models/hidalgo_only\Wild_Turkey_fall.pkl
+Wild Turkey,Spring,Hidalgo,0.9480736135206502,0.13893089033176198,0.9142598767492129,62960,15741,models/hidalgo_only\Wild_Turkey_spring.pkl
+Wild Turkey,Winter,Hidalgo,0.963541287582175,0.15256089762223127,0.9553233910213407,68804,17201,models/hidalgo_only\Wild_Turkey_winter.pkl
+Roseate Spoonbill,Fall,Hidalgo,0.8661069522370991,0.16188753203678577,0.8725802205255407,26532,6633,models/hidalgo_only\Roseate_Spoonbill_fall.pkl
+Roseate Spoonbill,Spring,Hidalgo,0.8624421406912586,0.13234901716623676,0.9067473758952029,62960,15741,models/hidalgo_only\Roseate_Spoonbill_spring.pkl
+Roseate Spoonbill,Winter,Hidalgo,0.8647026969579152,0.1481425498517528,0.92858860406254,68804,17201,models/hidalgo_only\Roseate_Spoonbill_winter.pkl
+Bronzed Cowbird,Spring,Hidalgo,0.7624327475489122,0.2104674654705785,0.5608395823604211,62960,15741,models/hidalgo_only\Bronzed_Cowbird_spring.pkl
+Bronzed Cowbird,Summer,Hidalgo,0.8172921746197609,0.29709187045604757,0.8364618528987482,7262,1816,models/hidalgo_only\Bronzed_Cowbird_summer.pkl
+Tricolored Heron,Fall,Hidalgo,0.863672744960053,0.1255238956731494,0.9078801441980162,26532,6633,models/hidalgo_only\Tricolored_Heron_fall.pkl
+Tricolored Heron,Spring,Hidalgo,0.8469515880606369,0.10768605227379575,0.8434000378576882,62960,15741,models/hidalgo_only\Tricolored_Heron_spring.pkl
+Tricolored Heron,Summer,Hidalgo,0.8596040084408391,0.10630094734523023,0.8081487326083925,7262,1816,models/hidalgo_only\Tricolored_Heron_summer.pkl
+Green Kingfisher,Fall,Hidalgo,0.81056143212208,0.13469018543645409,0.7578567278146295,26532,6633,models/hidalgo_only\Green_Kingfisher_fall.pkl
+Green Kingfisher,Winter,Hidalgo,0.8255751667045612,0.13207371664438114,0.8402409437770424,68804,17201,models/hidalgo_only\Green_Kingfisher_winter.pkl
+Carolina Chickadee,Fall,Bexar,0.7670765249847582,0.4373795761078998,0.8162937219849167,7473,1869,models/bexar_only\Carolina_Chickadee_fall.pkl
+Carolina Chickadee,Spring,Bexar,0.7736582464116006,0.3755796743956586,0.8227769643563712,16216,4054,models/bexar_only\Carolina_Chickadee_spring.pkl
+Carolina Chickadee,Summer,Bexar,0.7981334063541117,0.35179934569247545,0.839551304991464,7336,1834,models/bexar_only\Carolina_Chickadee_summer.pkl
+Carolina Chickadee,Winter,Bexar,0.7590601005908406,0.3865257259296994,0.8448185032502639,12563,3141,models/bexar_only\Carolina_Chickadee_winter.pkl
+Tree Swallow,Winter,Hidalgo,0.8483445365022465,0.12721353409685485,0.8479647385286146,68804,17201,models/hidalgo_only\Tree_Swallow_winter.pkl
+Eastern Screech-Owl,Spring,Hidalgo,0.8502684100532021,0.13283185728262664,0.792909883941736,62960,15741,models/hidalgo_only\Eastern_Screech-Owl_spring.pkl
+White-tailed Kite,Fall,Hidalgo,0.8738528292428311,0.1347806422433288,0.8293117206322926,26532,6633,models/hidalgo_only\White-tailed_Kite_fall.pkl
+White-tailed Kite,Winter,Hidalgo,0.8753428286572016,0.10207546072902739,0.8796470871847817,68804,17201,models/hidalgo_only\White-tailed_Kite_winter.pkl
+Stilt Sandpiper,Spring,Hidalgo,0.898828645486304,0.1250937091015362,0.9266782762740228,62960,15741,models/hidalgo_only\Stilt_Sandpiper_spring.pkl
+Sora,Spring,Hidalgo,0.8695270585943392,0.1139248548303071,0.8375192834449404,62960,15741,models/hidalgo_only\Sora_spring.pkl
+Cinnamon Teal,Winter,Hidalgo,0.9200395353707255,0.12526015929306436,0.9251722550564405,68804,17201,models/hidalgo_only\Cinnamon_Teal_winter.pkl
+Common Ground Dove,Fall,Hidalgo,0.8103955502865978,0.10306045529926126,0.7344668145101101,26532,6633,models/hidalgo_only\Common_Ground_Dove_fall.pkl
+Common Ground Dove,Spring,Hidalgo,0.7883394707645823,0.10293388902301115,0.7768638329090763,62960,15741,models/hidalgo_only\Common_Ground_Dove_spring.pkl
+Common Ground Dove,Summer,Hidalgo,0.8533030212275495,0.211940956157744,0.864828119037122,7262,1816,models/hidalgo_only\Common_Ground_Dove_summer.pkl
+Swainsons Hawk,Spring,Hidalgo,0.7260422353212455,0.1675074014307315,0.5801210604856851,62960,15741,models/hidalgo_only\Swainsons_Hawk_spring.pkl
+Northern Rough-winged Swallow,Fall,Hidalgo,0.7811683402889809,0.12449871852856928,0.7135876252207575,26532,6633,models/hidalgo_only\Northern_Rough-winged_Swallow_fall.pkl
+Northern Rough-winged Swallow,Spring,Hidalgo,0.8066576031988115,0.11576727106390007,0.8120452118361897,62960,15741,models/hidalgo_only\Northern_Rough-winged_Swallow_spring.pkl
+Blue Jay,Fall,Bexar,0.8323464451619872,0.39252836651680584,0.8239330153679122,7473,1869,models/bexar_only\Blue_Jay_fall.pkl
+Blue Jay,Spring,Bexar,0.8346687663738634,0.25416872224963,0.8982961526424941,16216,4054,models/bexar_only\Blue_Jay_spring.pkl
+Blue Jay,Summer,Bexar,0.8118561109219571,0.24711014176663032,0.8871391851587555,7336,1834,models/bexar_only\Blue_Jay_summer.pkl
+Blue Jay,Winter,Bexar,0.8304120827393281,0.25178298522669385,0.8552694546716331,12563,3141,models/bexar_only\Blue_Jay_winter.pkl
+Broad-winged Hawk,Spring,Hidalgo,0.8086307745500199,0.139731388419461,0.5631731894492772,62960,15741,models/hidalgo_only\Broad-winged_Hawk_spring.pkl
+Groove-billed Ani,Summer,Hidalgo,0.8564436442598375,0.41980612469706985,0.9010880113088272,7262,1816,models/hidalgo_only\Groove-billed_Ani_summer.pkl
+Black Phoebe,Fall,Hidalgo,0.796610823084936,0.1257651138248153,0.7949313921192327,26532,6633,models/hidalgo_only\Black_Phoebe_fall.pkl
+Western Kingbird,Spring,Bexar,0.776152392522103,0.11406018746916625,0.7965876863410222,16216,4054,models/bexar_only\Western_Kingbird_spring.pkl
+Western Kingbird,Summer,Bexar,0.8071142800554566,0.2504907306434024,0.8047613538792452,7336,1834,models/bexar_only\Western_Kingbird_summer.pkl
+Mallard,Fall,Bexar,0.9285952619285953,0.11871119674587882,0.7937949709458467,7473,1869,models/bexar_only\Mallard_fall.pkl
+Mallard,Spring,Bexar,0.9416696531249363,0.12644301924025653,0.7803718030736091,16216,4054,models/bexar_only\Mallard_spring.pkl
+Mallard,Winter,Bexar,0.9369744922703023,0.1279928680590932,0.7493477739630617,12563,3141,models/bexar_only\Mallard_winter.pkl
+Cedar Waxwing,Spring,Bexar,0.7145745661029758,0.1050814010853478,0.6878566706011787,16216,4054,models/bexar_only\Cedar_Waxwing_spring.pkl
+Cedar Waxwing,Winter,Bexar,0.7315088933548529,0.12678298522669385,0.7626797010563148,12563,3141,models/bexar_only\Cedar_Waxwing_winter.pkl
+American Goldfinch,Winter,Bexar,0.7557421174057934,0.13200458481915436,0.6994044827397747,12563,3141,models/bexar_only\American_Goldfinch_winter.pkl
+American Robin,Spring,Bexar,0.88473970512373,0.1107054760730143,0.8427464086285715,16216,4054,models/bexar_only\American_Robin_spring.pkl
+Downy Woodpecker,Fall,Bexar,0.7498122625673646,0.13508884607150504,0.7938498375682944,7473,1869,models/bexar_only\Downy_Woodpecker_fall.pkl
+Downy Woodpecker,Winter,Bexar,0.806095792890628,0.114174732552216,0.8419232124449458,12563,3141,models/bexar_only\Downy_Woodpecker_winter.pkl
+Egyptian Goose,Winter,Bexar,0.947980251346499,0.11328323993886907,0.8519587442055234,12563,3141,models/bexar_only\Egyptian_Goose_winter.pkl
+White-crowned Sparrow,Winter,Bexar,0.9207219670662036,0.10061130922058074,0.8590415341402189,12563,3141,models/bexar_only\White-crowned_Sparrow_winter.pkl
+House Sparrow,Fall,Both,0.8245111568063332,0.3619403862893171,0.7528872078524532,34005,8502,models/combined\House_Sparrow_fall.pkl
+House Sparrow,Spring,Both,0.8332479378361901,0.35297208273130515,0.7833737950852937,79176,19795,models/combined\House_Sparrow_spring.pkl
+House Sparrow,Summer,Both,0.7898030127114433,0.5004384042086804,0.7682288213388523,14598,3650,models/combined\House_Sparrow_summer.pkl
+House Sparrow,Winter,Both,0.8252647920977225,0.34024520937183533,0.7339537128501219,81367,20342,models/combined\House_Sparrow_winter.pkl
+Great Egret,Fall,Both,0.8451133730172723,0.3713506010774696,0.8235933987716708,34005,8502,models/combined\Great_Egret_fall.pkl
+Great Egret,Spring,Both,0.843276636095853,0.3351486799163391,0.8085152952846205,79176,19795,models/combined\Great_Egret_spring.pkl
+Great Egret,Summer,Both,0.8678140729876309,0.24857518632178868,0.8669306814294045,14598,3650,models/combined\Great_Egret_summer.pkl
+Great Egret,Winter,Both,0.836461082139566,0.3912141501735343,0.8456339783572628,81367,20342,models/combined\Great_Egret_winter.pkl
+Long-billed Thrasher,Fall,Both,0.8430100123896364,0.3719622650386995,0.70368993478666,34005,8502,models/combined\Long-billed_Thrasher_fall.pkl
+Long-billed Thrasher,Spring,Both,0.8282883794945199,0.3365531317254549,0.6520585078383231,79176,19795,models/combined\Long-billed_Thrasher_spring.pkl
+Long-billed Thrasher,Summer,Both,0.9009220043572985,0.18484217448487505,0.8132104668030422,14598,3650,models/combined\Long-billed_Thrasher_summer.pkl
+Long-billed Thrasher,Winter,Both,0.8238860241155677,0.35767729502797196,0.6395299635041842,81367,20342,models/combined\Long-billed_Thrasher_winter.pkl
+Carolina Wren,Fall,Both,0.8721090692519679,0.3378267108946762,0.7788250033795376,34005,8502,models/combined\Carolina_Wren_fall.pkl
+Carolina Wren,Spring,Both,0.860616801066005,0.3331581978559376,0.7402627895585776,79176,19795,models/combined\Carolina_Wren_spring.pkl
+Carolina Wren,Summer,Both,0.8536601172534288,0.41418237615081105,0.7968867580111969,14598,3650,models/combined\Carolina_Wren_summer.pkl
+Carolina Wren,Winter,Both,0.8633786393518589,0.3070229773176415,0.7140559406459169,81367,20342,models/combined\Carolina_Wren_winter.pkl
+White-eyed Vireo,Fall,Both,0.7941363779048966,0.31136048180299714,0.611704371549832,34005,8502,models/combined\White-eyed_Vireo_fall.pkl
+White-eyed Vireo,Spring,Both,0.8184126558580684,0.30424063614594177,0.6598977852668038,79176,19795,models/combined\White-eyed_Vireo_spring.pkl
+White-eyed Vireo,Summer,Both,0.8558610299660672,0.2660565541429198,0.7586378523175193,14598,3650,models/combined\White-eyed_Vireo_summer.pkl
+White-eyed Vireo,Winter,Both,0.8263138553377664,0.2770354639215802,0.6066937039148957,81367,20342,models/combined\White-eyed_Vireo_winter.pkl
+Black-bellied Whistling-Duck,Fall,Both,0.9038221092528309,0.27546051238619523,0.8728927633787773,34005,8502,models/combined\Black-bellied_Whistling-Duck_fall.pkl
+Black-bellied Whistling-Duck,Spring,Both,0.8075009279508572,0.43250042941871863,0.6814354592387526,79176,19795,models/combined\Black-bellied_Whistling-Duck_spring.pkl
+Black-bellied Whistling-Duck,Summer,Both,0.8531833974229238,0.3342284085927225,0.7685894441495799,14598,3650,models/combined\Black-bellied_Whistling-Duck_summer.pkl
+Black-bellied Whistling-Duck,Winter,Both,0.8935029288412978,0.14921000108151689,0.9067678784491786,81367,20342,models/combined\Black-bellied_Whistling-Duck_winter.pkl
+Snowy Egret,Fall,Both,0.8886308534584315,0.3010798221469405,0.8859668845339814,34005,8502,models/combined\Snowy_Egret_fall.pkl
+Snowy Egret,Spring,Both,0.8737119898182,0.24326317810267653,0.8885594318576214,79176,19795,models/combined\Snowy_Egret_spring.pkl
+Snowy Egret,Summer,Both,0.8906240729689077,0.22084612012275318,0.8613275568197114,14598,3650,models/combined\Snowy_Egret_summer.pkl
+Snowy Egret,Winter,Both,0.8608694487481454,0.31360056632156447,0.8800925492359478,81367,20342,models/combined\Snowy_Egret_winter.pkl
+Blue-winged Teal,Fall,Both,0.9312942152550006,0.2835532971040064,0.9011038809424986,34005,8502,models/combined\Blue-winged_Teal_fall.pkl
+Blue-winged Teal,Spring,Both,0.9275513488761842,0.26681553182245304,0.901689184279139,79176,19795,models/combined\Blue-winged_Teal_spring.pkl
+Blue-winged Teal,Winter,Both,0.9248199617557537,0.3141314927882488,0.8970069878651651,81367,20342,models/combined\Blue-winged_Teal_winter.pkl
+American Coot,Fall,Both,0.9012088054876239,0.2323382031194862,0.8920384829819401,34005,8502,models/combined\American_Coot_fall.pkl
+American Coot,Spring,Both,0.8925522955746079,0.2528215335805438,0.8736222898938385,79176,19795,models/combined\American_Coot_spring.pkl
+American Coot,Winter,Both,0.8850118720368568,0.31484922671543325,0.8840787431258692,81367,20342,models/combined\American_Coot_winter.pkl
+Eastern Phoebe,Fall,Both,0.7843020866640525,0.37817300679888016,0.6678575869163909,34005,8502,models/combined\Eastern_Phoebe_fall.pkl
+Eastern Phoebe,Summer,Both,0.9153582122679934,0.15103024989039895,0.5995757819623011,14598,3650,models/combined\Eastern_Phoebe_summer.pkl
+Eastern Phoebe,Winter,Both,0.7806247844891572,0.31088694215851104,0.7450022829484295,81367,20342,models/combined\Eastern_Phoebe_winter.pkl
+Black Vulture,Fall,Both,0.8263943602457616,0.25802808949114264,0.7301308775369674,34005,8502,models/combined\Black_Vulture_fall.pkl
+Black Vulture,Spring,Both,0.7894114408455009,0.2207919491568237,0.6684984796716167,79176,19795,models/combined\Black_Vulture_spring.pkl
+Black Vulture,Summer,Both,0.8451422057799196,0.21531126698816308,0.6347507089447334,14598,3650,models/combined\Black_Vulture_summer.pkl
+Black Vulture,Winter,Both,0.808836446359434,0.22397231316795957,0.7514068579565945,81367,20342,models/combined\Black_Vulture_winter.pkl
+Neotropic Cormorant,Fall,Both,0.8457255010188743,0.1990260427694262,0.7484816885023603,34005,8502,models/combined\Neotropic_Cormorant_fall.pkl
+Neotropic Cormorant,Spring,Both,0.8381221802950627,0.21035454830202788,0.7617747227504146,79176,19795,models/combined\Neotropic_Cormorant_spring.pkl
+Neotropic Cormorant,Summer,Both,0.9108493654368087,0.15733231039017975,0.8570488932071255,14598,3650,models/combined\Neotropic_Cormorant_summer.pkl
+Neotropic Cormorant,Winter,Both,0.8200383072355552,0.23522008868438388,0.7813913318666833,81367,20342,models/combined\Neotropic_Cormorant_winter.pkl
+Pied-billed Grebe,Fall,Both,0.8500353315228402,0.22586868045263134,0.8235204319973973,34005,8502,models/combined\Pied-billed_Grebe_fall.pkl
+Pied-billed Grebe,Spring,Both,0.8648013653905905,0.18340726071273403,0.766818997165201,79176,19795,models/combined\Pied-billed_Grebe_spring.pkl
+Pied-billed Grebe,Winter,Both,0.8659831120172045,0.27253242092636837,0.8479730674419849,81367,20342,models/combined\Pied-billed_Grebe_winter.pkl
+Great Blue Heron,Fall,Both,0.8297987591631057,0.2612510880560849,0.8135482501807894,34005,8502,models/combined\Great_Blue_Heron_fall.pkl
+Great Blue Heron,Spring,Both,0.8248488884009024,0.1440320902082428,0.7812769833563074,79176,19795,models/combined\Great_Blue_Heron_spring.pkl
+Great Blue Heron,Summer,Both,0.8668390540657468,0.10028496273564226,0.8278172012862521,14598,3650,models/combined\Great_Blue_Heron_summer.pkl
+Great Blue Heron,Winter,Both,0.8406745312917105,0.28096825256368657,0.8517323650296282,81367,20342,models/combined\Great_Blue_Heron_winter.pkl
+Least Grebe,Fall,Both,0.9062653894499533,0.21914037687910226,0.8975415339917807,34005,8502,models/combined\Least_Grebe_fall.pkl
+Least Grebe,Spring,Both,0.9082446425568262,0.1901971284517687,0.8871381825122004,79176,19795,models/combined\Least_Grebe_spring.pkl
+Least Grebe,Winter,Both,0.8857673520145679,0.26214985891120746,0.8483552706109669,81367,20342,models/combined\Least_Grebe_winter.pkl
+Black-necked Stilt,Fall,Both,0.920783365494904,0.19267414778742326,0.9221786439019077,34005,8502,models/combined\Black-necked_Stilt_fall.pkl
+Black-necked Stilt,Spring,Both,0.9259493813511025,0.21851855594062908,0.907575903568314,79176,19795,models/combined\Black-necked_Stilt_spring.pkl
+Black-necked Stilt,Summer,Both,0.9521986049908202,0.16089434458570803,0.8849073559680819,14598,3650,models/combined\Black-necked_Stilt_summer.pkl
+Black-necked Stilt,Winter,Both,0.9263032440437869,0.20746443284271796,0.9155901491274996,81367,20342,models/combined\Black-necked_Stilt_winter.pkl
+European Starling,Fall,Both,0.7923051047238482,0.20530736114051804,0.5962614433599673,34005,8502,models/combined\European_Starling_fall.pkl
+European Starling,Spring,Both,0.7595934434067014,0.22778389629285345,0.6334707393070216,79176,19795,models/combined\European_Starling_spring.pkl
+European Starling,Summer,Both,0.7896971717171717,0.24660236738272687,0.703165834562755,14598,3650,models/combined\European_Starling_summer.pkl
+European Starling,Winter,Both,0.7904490033447464,0.17679851340589328,0.5972939619824904,81367,20342,models/combined\European_Starling_winter.pkl
+Crested Caracara,Fall,Both,0.8018061478825937,0.16352600748112076,0.7418441251187877,34005,8502,models/combined\Crested_Caracara_fall.pkl
+Crested Caracara,Spring,Both,0.7898975446045156,0.1823160319689606,0.7312334173050343,79176,19795,models/combined\Crested_Caracara_spring.pkl
+Crested Caracara,Summer,Both,0.8369816887272209,0.12253397632617273,0.715017823203641,14598,3650,models/combined\Crested_Caracara_summer.pkl
+Crested Caracara,Winter,Both,0.7896592049641437,0.19389631202745086,0.7260502140316356,81367,20342,models/combined\Crested_Caracara_winter.pkl
+Killdeer,Fall,Both,0.8495093046805009,0.2543345801867928,0.7646229240643924,34005,8502,models/combined\Killdeer_fall.pkl
+Killdeer,Spring,Both,0.866072768968223,0.1754251245314284,0.85454551545292,79176,19795,models/combined\Killdeer_spring.pkl
+Killdeer,Summer,Both,0.8908338158580372,0.2188185006576063,0.8367556486250202,14598,3650,models/combined\Killdeer_summer.pkl
+Killdeer,Winter,Both,0.8292595342416141,0.1276583193227738,0.7680714623167595,81367,20342,models/combined\Killdeer_winter.pkl
+Common Yellowthroat,Fall,Both,0.8204630060026986,0.1603265344531489,0.7256474016558149,34005,8502,models/combined\Common_Yellowthroat_fall.pkl
+Common Yellowthroat,Spring,Both,0.833463624565066,0.17672853664204666,0.6697679478735143,79176,19795,models/combined\Common_Yellowthroat_spring.pkl
+Common Yellowthroat,Winter,Both,0.8494580864459785,0.1898652036692918,0.7763982813040233,81367,20342,models/combined\Common_Yellowthroat_winter.pkl
+Verdin,Fall,Both,0.8673631023600301,0.17361846284141436,0.743229304438609,34005,8502,models/combined\Verdin_fall.pkl
+Verdin,Spring,Both,0.873545540070831,0.15905669337482697,0.7331815089783557,79176,19795,models/combined\Verdin_spring.pkl
+Verdin,Summer,Both,0.9206933536940081,0.1628123629986848,0.8530030526126386,14598,3650,models/combined\Verdin_summer.pkl
+Verdin,Winter,Both,0.8413593124645067,0.16495098762154775,0.7031041051566734,81367,20342,models/combined\Verdin_winter.pkl
+Least Sandpiper,Fall,Both,0.9025894153190831,0.19062742607100008,0.8825505413572946,34005,8502,models/combined\Least_Sandpiper_fall.pkl
+Least Sandpiper,Spring,Both,0.9045986968625481,0.1204393206090673,0.8793762337796097,79176,19795,models/combined\Least_Sandpiper_spring.pkl
+Least Sandpiper,Winter,Both,0.8936928381279905,0.15867818973738804,0.8747504298152796,81367,20342,models/combined\Least_Sandpiper_winter.pkl
+Yellow-crowned Night Heron,Fall,Both,0.9242626450149529,0.14298821370597783,0.8643462744194768,34005,8502,models/combined\Yellow-crowned_Night_Heron_fall.pkl
+Yellow-crowned Night Heron,Spring,Both,0.8768330073103368,0.1399298784492427,0.8544702291987825,79176,19795,models/combined\Yellow-crowned_Night_Heron_spring.pkl
+Yellow-crowned Night Heron,Summer,Both,0.8655973311329017,0.1374945199473915,0.8399868997775476,14598,3650,models/combined\Yellow-crowned_Night_Heron_summer.pkl
+Yellow-crowned Night Heron,Winter,Both,0.9634611889545617,0.13713633995025024,0.9244932446103937,81367,20342,models/combined\Yellow-crowned_Night_Heron_winter.pkl
+Red-shouldered Hawk,Fall,Both,0.7791138000246594,0.23351447996800526,0.6351218315451231,34005,8502,models/combined\Red-shouldered_Hawk_fall.pkl
+Red-shouldered Hawk,Summer,Both,0.9027594209515113,0.110861464270057,0.6216809069627061,14598,3650,models/combined\Red-shouldered_Hawk_summer.pkl
+Red-shouldered Hawk,Winter,Both,0.7517442171262664,0.17122378550570747,0.6859046675326721,81367,20342,models/combined\Red-shouldered_Hawk_winter.pkl
+Coopers Hawk,Fall,Both,0.7511683748505398,0.18714564659938362,0.6216582432421691,34005,8502,models/combined\Coopers_Hawk_fall.pkl
+Coopers Hawk,Spring,Both,0.7467232018899822,0.11310383849814593,0.6037239299010555,79176,19795,models/combined\Coopers_Hawk_spring.pkl
+Coopers Hawk,Winter,Both,0.7332259954781033,0.15260203128533364,0.6113879418517293,81367,20342,models/combined\Coopers_Hawk_winter.pkl
+Lesser Goldfinch,Fall,Both,0.8067161048680859,0.14665819747335732,0.6490254184242955,34005,8502,models/combined\Lesser_Goldfinch_fall.pkl
+Lesser Goldfinch,Spring,Both,0.8136273873795322,0.15249921694233665,0.7393805609810887,79176,19795,models/combined\Lesser_Goldfinch_spring.pkl
+Lesser Goldfinch,Summer,Both,0.7983808364428683,0.28611354669004824,0.8128479750434658,14598,3650,models/combined\Lesser_Goldfinch_summer.pkl
+Black-chinned Hummingbird,Spring,Both,0.8195782539530905,0.1434864758363561,0.7099193411989447,79176,19795,models/combined\Black-chinned_Hummingbird_spring.pkl
+Black-chinned Hummingbird,Summer,Both,0.8410271400625098,0.2556444541867602,0.6940381202459209,14598,3650,models/combined\Black-chinned_Hummingbird_summer.pkl
+White-faced Ibis,Fall,Both,0.9145414510629307,0.13981226621497636,0.9204710208279159,34005,8502,models/combined\White-faced_Ibis_fall.pkl
+White-faced Ibis,Spring,Both,0.9078375388486014,0.11722625819684554,0.8973768792666369,79176,19795,models/combined\White-faced_Ibis_spring.pkl
+White-faced Ibis,Winter,Both,0.9139108004766452,0.10859412638016301,0.9015894886443174,81367,20342,models/combined\White-faced_Ibis_winter.pkl
+Rock Pigeon,Fall,Both,0.8241935809538179,0.12812007434069683,0.7550560527557484,34005,8502,models/combined\Rock_Pigeon_fall.pkl
+Rock Pigeon,Spring,Both,0.7990336177365615,0.10525305392488708,0.7933095455738104,79176,19795,models/combined\Rock_Pigeon_spring.pkl
+Rock Pigeon,Winter,Both,0.8082416129133695,0.10668672388874141,0.800649886730987,81367,20342,models/combined\Rock_Pigeon_winter.pkl
+Spotted Sandpiper,Fall,Both,0.8912278099090667,0.12047427482532289,0.8579177444043173,34005,8502,models/combined\Spotted_Sandpiper_fall.pkl
+Spotted Sandpiper,Spring,Both,0.8873295650739614,0.10136302553273181,0.8828339689555348,79176,19795,models/combined\Spotted_Sandpiper_spring.pkl
+Spotted Sandpiper,Winter,Both,0.8931516248649596,0.11611558465819151,0.8661564199381975,81367,20342,models/combined\Spotted_Sandpiper_winter.pkl
