@@ -59,7 +59,7 @@ def get_recent_sightings(county, days=7):
 
 # Page config
 st.set_page_config(
-    page_title="Texas Bird Trip Planner",
+    page_title="Texas Birding Trip Planner",
     page_icon="🦅",
     layout="wide"
 )
