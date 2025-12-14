@@ -5,6 +5,9 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ebird-trip-planner.streamlit.app/)
 
+<img width="1910" height="993" alt="image" src="https://github.com/user-attachments/assets/8ce3d768-cf64-4191-a0d5-e70197a030c1" />
+
+
 ---
 
 ## Project Overview
