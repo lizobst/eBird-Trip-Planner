@@ -463,7 +463,7 @@ def main():
     st.sidebar.markdown("---")
     st.sidebar.subheader("About")
     st.sidebar.markdown(f"""
-    This tool uses machine learning models trained on {len(performance_df)} species-season combinations from eBird data (2023-2025).
+    This tool uses machine learning models trained on {len(performance_df)} species-season combinations from eBird data (2022-2025).
     
     **Model Performance:**
     - Average accuracy: {performance_df['roc_auc'].mean():.1%}
