@@ -12,7 +12,7 @@
 
 ## Project Overview
 
-This project develops a scalable machine learning system to predict bird detection probabilities across Bexar and Hidalgo counties in Texas, enabling data-driven trip planning for birders. Using over 200,000 citizen science observations from eBird (2023-2025), the system trains 281 seasonal models achieving an average ROC-AUC of 0.842.
+This project develops a scalable machine learning system to predict bird detection probabilities across Bexar and Hidalgo counties in Texas, enabling data-driven trip planning for birders. Using over 200,000 citizen science observations from eBird (2022-2025), the system trains 281 seasonal models achieving an average ROC-AUC of 0.842.
 
 **Key Innovation:** A species classification framework based on spatial variance separates habitat specialists (where location matters) from ubiquitous species (where it doesn't), focusing ML efforts on 90 species where spatial modeling adds value.
 
@@ -34,7 +34,7 @@ Traditional approaches rely on:
 ## Methodology
 
 ### Data Sources
-- **eBird Complete Checklists:** 200,000+ observations across 500+ species (2023-2025)
+- **eBird Complete Checklists:** 200,000+ observations across 500+ species (2022-2025)
 - **Geospatial Data:** 
   - NLCD land cover (30m resolution)
   - NHD water bodies and watersheds
@@ -238,7 +238,7 @@ Species with strong habitat associations show high spatial feature importance:
 **2. Temporal Validation Missing:**
 - No hold-out test on future years
 - Models trained and tested on same time period
-- **Future:** Train on 2023-2024, test on 2025
+- **Future:** Train on 2022-2024, test on 2025
 
 **3. Spatial Cross-Validation Not Implemented:**
 - Random split allows same locations in train/test
