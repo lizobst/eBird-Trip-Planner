@@ -20,7 +20,7 @@ This project develops a scalable machine learning system to predict bird detecti
 
 ## Problem Statement
 
-Birders face a common challenge: *Where and when should I go to maximize my chances of seeing specific bird species?*
+Us birders face a common challenge: *Where and when should I go to maximize my chances of seeing specific bird species?*
 
 Traditional approaches rely on:
 - Anecdotal reports from other birders
@@ -28,6 +28,9 @@ Traditional approaches rely on:
 - Recent sightings (limited context)
 
 **This system provides:** Probabilistic predictions integrating spatial habitat features, temporal patterns, and real-time observations.
+
+
+*The initial motivation for this project is to maximize the number of bird species I will see in 2026.*
 
 ---
 
